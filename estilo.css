@@ -63,3 +63,7 @@ div{
     background-color: gray;
     text-align: center;
 }
+
+.borda-3d{
+    border: solid 20px #A5A0A0;
+}
